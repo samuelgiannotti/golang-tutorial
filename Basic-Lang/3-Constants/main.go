@@ -49,7 +49,7 @@ func main() {
 	fmt.Printf("\n")
 	fmt.Printf("value of p : %d", p)
 	fmt.Printf("\n")
-	fmt.Printf("value of r : ", r)
+	fmt.Println("value of r : ", r)
 	fmt.Printf("\n")
 	fmt.Printf("value of b : %d", b)
 	fmt.Printf("\n")
