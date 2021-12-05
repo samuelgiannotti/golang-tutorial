@@ -9,7 +9,9 @@ After installing VSCode install go extension (https://marketplace.visualstudio.c
 The package fmt documentation for printing
 https://pkg.go.dev/fmt
 
-Sample Demos are placed on directories
+Sample Demos are placed on directories:
+Code credits: 
+- Basic-Lang session (https://www.tutorialspoint.com/go/index.htm)
 
 In order to compile and execute samples go to sample directory and execute (go run main.go)
 
