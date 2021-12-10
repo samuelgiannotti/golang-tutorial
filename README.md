@@ -12,6 +12,7 @@ https://pkg.go.dev/fmt
 Sample Demos are placed on directories:
 Code credits: 
 - Basic-Lang session (https://www.tutorialspoint.com/go/index.htm)
+- Go-Routines session (https://golangbot.com/channels/)
 
 In order to compile and execute samples go to sample directory and execute (go run main.go)
 
